@@ -85,7 +85,7 @@ with col1:
     st.subheader("👤 بيانات المستخدم")
     u_info = users[users['user_id'] == selected_user].iloc[0]
     st.write(f"**العمر:** {u_info['age']}")
-   st.write(f"**الدولة:** {u_info['country']}")
+    st.write(f"**الدولة:** {u_info['country']}")
 
 with col2:
     st.subheader("💡 التوصيات المقترحة")
