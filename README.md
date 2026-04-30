@@ -18,7 +18,7 @@
 
 ## 🚀 روابط الوصول (Links)
 *   **رابط الديمو (Live Demo):** [https://smart-recommender-s25.streamlit.app/#byanat-almstkhdm]
-*   **فيديو الشرح (3 دقائق):** [رابط الفيديو الخاص بك]
+*   **فيديو الشرح (3 دقائق):** []
 
 ---
 
