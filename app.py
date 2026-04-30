@@ -13,7 +13,7 @@ def load_data():
     users = pd.read_excel(f'{path}users.xlsx')
     products = pd.read_excel(f'{path}products.xlsx')
     ratings = pd.read_excel(f'{path}ratings.xlsx')
-    behavior = pd.read_excel(f'{path}behavior.xlsx')
+    behavior = pd.read_excel(f'{path}behavior_15500.xlsx')
     return users, products, ratings, behavior
 
 users, products, ratings, behavior = load_data()
