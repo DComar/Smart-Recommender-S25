@@ -9,7 +9,7 @@ st.set_page_config(page_title="متجر الذكاء الاصطناعي", layout
 # 1. تحميل البيانات
 @st.cache_data
 def load_data():
-    path = "HW__Data_S25/" # تأكد من اسم المجلد لديك
+    path = "HW__Data_S25/" # 
     users = pd.read_excel(f'{path}users.xlsx')
     products = pd.read_excel(f'{path}products.xlsx')
     ratings = pd.read_excel(f'{path}ratings.xlsx')
