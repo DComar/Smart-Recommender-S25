@@ -18,8 +18,6 @@
 
 ## 🚀 روابط الوصول (Links)
 *   **رابط الديمو (Live Demo):** [https://smart-recommender-s25.streamlit.app#]
-*   **فيديو الشرح (3 دقائق):** []
-
 ---
 
 ## 📊 بيانات المشروع (Data Source)
