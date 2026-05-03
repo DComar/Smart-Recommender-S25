@@ -17,7 +17,7 @@
 ---
 
 ## 🚀 روابط الوصول (Links)
-*   **رابط الديمو (Live Demo):** [https://smart-recommender-s25.streamlit.app]
+*   **رابط الاستضافة:** [https://smart-recommender-s25.streamlit.app]
 ---
 
 ## 📊 بيانات المشروع (Data Source)
